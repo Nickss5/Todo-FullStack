@@ -37,7 +37,7 @@ A full-stack **Todo App** built with a **React frontend** and a **Node.js backen
 
 ## 📷 Screenshots
 
-![Screenshot of the app](https://github.com/Nickss5/todo-FullStack/blob/main/Screenshot%202024-10-26%20182853.png)
+![Screenshot of the app](https://github.com/Nickss5/todo-FullStack/blob/main/snapshot_app.png)
 
 
 
